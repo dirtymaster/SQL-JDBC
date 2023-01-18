@@ -1,7 +1,4 @@
-# Day 05 – Java bootcamp
-### SQL/JDBC
-
-*Takeaways: Today you will use the key mechanisms to work with PostgreSQL DBMS via JDBC*
+# SQL/JDBC
 
 ### Exercise 00 – Tables & Entities
 
